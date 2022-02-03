@@ -2,12 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Education 
 
-[Resume](/sample_page)
+[Resume](images/Screen Shot 2022-02-03 at 12.31.49 PM.png?raw=true)
 <img src="images/Screen Shot 2022-02-03 at 12.31.49 PM.png?raw=true"/>
 
----
+<!-- ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -16,8 +16,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
+ -->
+### Data Science
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
