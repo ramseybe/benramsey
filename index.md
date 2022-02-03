@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Resume](/sample_page)
+<img src="images/Screen Shot 2022-02-03 at 12.31.49 PM.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
