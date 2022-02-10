@@ -19,7 +19,7 @@
  -->
 ### Data Science
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 Title](https://www.instagram.com/finnian.boyle/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
