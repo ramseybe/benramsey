@@ -19,11 +19,11 @@
  -->
 ### Data Science
 
-- [Project 1 Title](https://www.instagram.com/finnian.boyle/)
-- [Project 2 Title](https://www.instagram.com/joshallenqb/)
-- [Project 3 Title](images/IMG_0181.png?raw=true)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [finnian.boyle](https://www.instagram.com/finnian.boyle/)
+- [joshallenqb](https://www.instagram.com/joshallenqb/)
+- [Shower Coffee](images/IMG_0181.png?raw=true)
+- [BFF](images/IMG_7532.png?raw=true)
+<!-- - [Project 5 Title](http://example.com/) -->
 
 ---
 
