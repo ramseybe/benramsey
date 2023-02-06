@@ -5,7 +5,7 @@
 ### Education 
 
 [Resume](images/2023ramsey_resume.pdf?raw=true)
-<img src="images/2023ramsey_resume.pdf?raw=true"/>
+<img src="images/resume.png?raw=true"/>
 
 <!-- ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
