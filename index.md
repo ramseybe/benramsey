@@ -9,6 +9,7 @@
 
 -- ---
 ### Upcoming Projects
+## Parallelized Sudoku Solver
 [test](/pdf/sample_presentation.pdf)
 <img src="images/kisspng-sudoku-cube-jigsaw-puzzles-rubik-s-cube-puzzle-cub-5b1098f1833d61.7294962915278143855376.png?raw=true"/>
 
