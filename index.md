@@ -7,11 +7,11 @@
 [Resume](images/2023ramsey_resume.pdf?raw=true)
 <img src="images/resume.png?raw=true"/>
 
-<!-- ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+-- ---
+[Upcoming Projects](/pdf/sample_presentation.pdf)
+<img src="images/kisspng-sudoku-cube-jigsaw-puzzles-rubik-s-cube-puzzle-cub-5b1098f1833d61.7294962915278143855376.png?raw=true"/>
 
----
+<!---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
