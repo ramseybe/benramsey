@@ -4,7 +4,7 @@
 
 ### Education 
 
-[Resume](images/Screen Shot 2022-02-03 at 12.31.49 PM.png?raw=true)
+[Resume](images/2023ramsey_resume.pdf?raw=true)
 <img src="images/Screen Shot 2022-02-03 at 12.31.49 PM.png?raw=true"/>
 
 <!-- ---
