@@ -8,6 +8,7 @@
 <img src="images/resume.png?raw=true"/>
 
 -- ---
+## Data Science
 ### Upcoming Projects
 
 [Parallelized Sudoku Solver](/pdf/sample_presentation.pdf)
@@ -19,7 +20,7 @@
 
 ---
  -->
-### Data Science
+\
 <!-- 
 - [finnian.boyle](https://www.instagram.com/p/CArM-bBgQEcJ4UbvFPmzyPMVS2elFACroX068Y0/)
 - [joshallenqb](https://www.instagram.com/joshallenqb/)
